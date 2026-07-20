@@ -1,6 +1,6 @@
 # Hi, I'm Evan 👋
 
-I'm a Senior Associate at JPMorganChase in focusing on AI, Automation & Data Strategy, and a part-time MSc Computer Science student at the University of Bath. My work sits at the intersection of AI deployment, evaluation, and governance — and I'm building toward a research career in clinical AI.
+I'm a Senior Associate at JPMorganChase, working in Frimwide Resiliency focusing on AI, Automation & Data Strategy, and a part-time MSc Computer Science student at the University of Bath. My work sits at the intersection of AI deployment, evaluation, and governance — and I'm building toward a research career in clinical AI.
 
 ## What I work on
 
