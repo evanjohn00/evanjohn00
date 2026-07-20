@@ -24,9 +24,9 @@ I'm currently working on an independent research project examining whether the N
 | 🧬 Clinical Prediction Model (MIMIC-IV) | LLM evaluation and SHAP explainability for clinical prediction tasks | 📅 Planned |
 
 ## Technical Skills
-**Building**: Python (pandas, matplotlib, scikit-learn — in progress) · SQL · Java
-**Tools**: Alteryx · Tableau · Git
-**Foundations**: Linear algebra and calculus for ML (DeepLearning.AI) · AI Fundamentals (DataCamp)
+**Building**: Python (pandas, matplotlib, scikit-learn — in progress) · SQL · Java  
+**Tools**: Alteryx · Tableau · Git  
+**Foundations**: Linear algebra and calculus for ML (DeepLearning.AI) · AI Fundamentals (DataCamp)  
 
 ## Background
 - 🎓 MSc Computer Science — University of Bath (2026–2028, part-time)
